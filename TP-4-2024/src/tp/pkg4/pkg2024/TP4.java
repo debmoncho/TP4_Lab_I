@@ -83,6 +83,8 @@ public class TP4 extends javax.swing.JFrame {
                 .addGap(39, 39, 39))
         );
 
+        getAccessibleContext().setAccessibleName("TP 4 - De Celsius a Farenheit");
+
         pack();
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents

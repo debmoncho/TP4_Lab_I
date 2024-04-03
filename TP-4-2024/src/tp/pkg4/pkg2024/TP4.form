@@ -6,6 +6,9 @@
     <Property name="title" type="java.lang.String" value="Ejercicio 2 - De Celsius a Farenheit"/>
     <Property name="resizable" type="boolean" value="false"/>
   </Properties>
+  <AccessibilityProperties>
+    <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="TP 4 - De Celsius a Farenheit"/>
+  </AccessibilityProperties>
   <SyntheticProperties>
     <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
     <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
