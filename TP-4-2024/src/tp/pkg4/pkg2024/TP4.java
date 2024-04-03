@@ -34,6 +34,8 @@ public class TP4 extends javax.swing.JFrame {
         jtcombo = new javax.swing.JTextField();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Ejercicio 2 - De Celsius a Farenheit");
+        setResizable(false);
 
         jLabel1.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
         jLabel1.setText("Trabajo Practico Numero 4");
@@ -82,6 +84,7 @@ public class TP4 extends javax.swing.JFrame {
         );
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void jbutonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbutonActionPerformed
