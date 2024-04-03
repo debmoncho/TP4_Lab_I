@@ -40,7 +40,7 @@ public class TP4 extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
         jLabel1.setText("Trabajo Practico Numero 4");
 
-        jLabel2.setText("Celcios °");
+        jLabel2.setText("Celsius °");
 
         jbuton.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
         jbuton.setText("Convertir");
