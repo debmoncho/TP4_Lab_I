@@ -79,8 +79,8 @@ public class TP4 extends javax.swing.JFrame {
                         .addGap(87, 87, 87)
                         .addComponent(jtcombo, javax.swing.GroupLayout.PREFERRED_SIZE, 124, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(133, 133, 133)
-                        .addComponent(jbuton, javax.swing.GroupLayout.PREFERRED_SIZE, 128, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                        .addGap(115, 115, 115)
+                        .addComponent(jbuton, javax.swing.GroupLayout.PREFERRED_SIZE, 190, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addContainerGap(54, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(

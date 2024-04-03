@@ -58,8 +58,8 @@
                       <Component id="jtcombo" min="-2" pref="124" max="-2" attributes="0"/>
                   </Group>
                   <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="-2" pref="133" max="-2" attributes="0"/>
-                      <Component id="jbuton" min="-2" pref="128" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="115" max="-2" attributes="0"/>
+                      <Component id="jbuton" min="-2" pref="190" max="-2" attributes="0"/>
                   </Group>
               </Group>
               <EmptySpace pref="54" max="32767" attributes="0"/>
